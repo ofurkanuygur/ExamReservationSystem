@@ -16,6 +16,7 @@ Days and hours can change from 1 to 7 and 1 to 5 respectively.
 Defined Classroom and Exam classes and initialized Classroom objects with the information given in txt files.
 
 =============== MENU =============== 
+
 -Create Exam 
   Take course name and code from user
   Take day and hour reservation request from user
@@ -28,6 +29,7 @@ Defined Classroom and Exam classes and initialized Classroom objects with the in
 -Show Avaible Classes 
 -Show Avaible Days 
 -Show Avaible Hours 
+
 =============== Exit Menu ===============
 
 If any changes occur in a schedule, update classroom file.
