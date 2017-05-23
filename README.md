@@ -36,18 +36,18 @@ Defined Classroom and Exam classes and initialized Classroom objects with the in
 =============== MENU =============== 
 
 #Create Exam 
+ 
+	Take course name and code from user.
+  	
+ 	Take day and hour reservation request from user.
+  
+ 	Take number of students from user.
+  
+ 	Assign the minimum number of classes for the exam.
 
-  Take course name and code from user.
+ 	Write all information about an exam in a file which is named as Course Code(Classrooms and date).
   
-  Take day and hour reservation request from user.
-  
-  Take number of students from user.
-  
-  Assign the minimum number of classes for the exam.
-
-  Write all information about an exam in a file which is named as Course Code(Classrooms and date).
-  
-  This file must include the   date (day, hour) of the exam with all classrooms. 
+ 	This file must include the   date (day, hour) of the exam with all classrooms. 
 
 #Show Schedule of Class
 
