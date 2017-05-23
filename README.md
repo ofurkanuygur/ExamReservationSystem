@@ -11,10 +11,15 @@ You are expected to implement a class reservation and exam scheduling system.
 6 – Saturday
 7 – Sunday
 
+
 1 –  08:30-10:30
+
 2 –  10:30-12:30
+
 3 –  12:30-14:30
+
 4 –  14:30-16:30
+
 5 –  16:30 -18:30
 
 
