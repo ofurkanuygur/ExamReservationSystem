@@ -4,11 +4,17 @@
 You are expected to implement a class reservation and exam scheduling system.
 
 1 – Monday 	             
+
 2 – Tuesday               
+
 3 – Wednesday             
+
 4 – Thursday              
+
 5 – Friday                
+
 6 – Saturday
+
 7 – Sunday
 
 
@@ -29,7 +35,7 @@ Defined Classroom and Exam classes and initialized Classroom objects with the in
 
 =============== MENU =============== 
 
--Create Exam 
+#Create Exam 
 
   Take course name and code from user.
   
@@ -43,13 +49,13 @@ Defined Classroom and Exam classes and initialized Classroom objects with the in
   
   This file must include the   date (day, hour) of the exam with all classrooms. 
 
--Show Schedule of Class
+#Show Schedule of Class
 
--Show Avaible Classes 
+#Show Avaible Classes 
 
--Show Avaible Days 
+#Show Avaible Days 
 
--Show Avaible Hours 
+#Show Avaible Hours 
 
 =============== Exit Menu ===============
 
